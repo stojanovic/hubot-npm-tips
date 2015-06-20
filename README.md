@@ -22,7 +22,7 @@ Then add **hubot-npm-tips** to your `external-scripts.json`:
 
 ```
 
-user1>> hubot excuse
-hubot>> The electrician didn't know what the yellow cable was so he yanked the ethernet out.
+user1>> hubot npm tip
+hubot>> Put a test script in your package.json. Use `npm t` to run it
 
 ```

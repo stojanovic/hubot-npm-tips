@@ -1,7 +1,7 @@
 {
   "name": "hubot-npm-tips",
   "description": "Random useful npm tips",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Slobodan <slobodan@cloudhorizon.com>",
   "license": "MIT",
   "keywords": "hubot,hubot-scripts,random,bofh,excuse,generator",
