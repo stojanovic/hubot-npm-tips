@@ -1,20 +1,20 @@
-# hubot-huh
+# hubot-npm-tips
 
-Random BOFH-style excuses
+Random useful npm tips
 
-See [`src/huh.coffee`](src/huh.coffee) for full documentation.
+See [`src/npm-tips.coffee`](src/npm-tips.coffee) for full documentation.
 
 ## Installation
 
 In hubot project repo, run:
 
-`npm install hubot-huh --save`
+`npm install hubot-npm-tips --save`
 
-Then add **hubot-huh** to your `external-scripts.json`:
+Then add **hubot-npm-tips** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-huh"
+  "hubot-npm-tips"
 ]
 ```
 
