@@ -34,6 +34,6 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "npm-tips": "^1.0.0"
+    "npm-tips": "^1.2.0"
   }
 }
